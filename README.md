@@ -7,10 +7,12 @@ In the spirit of [Islandora Awesome](https://github.com/Islandora-Labs/islandora
 We offer this list for discovery, but do not officially provide support for any of these modules. 
 
 ## Table of Contents
+  * Islandora Contributed Modules
+  * Drupal Contributed Modules
+    * [Displays](#displays)
 
-  * [Displays](#displays)
-  * [Other](#other)
-
+## Drupal Contributed Modules
+### Displays
 
 ## Contribute
 
